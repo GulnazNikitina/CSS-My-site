@@ -17,6 +17,7 @@
     font-size: 5.625rem ;
     color: #66BFBF ;
     line-height: 2 ;
+    letter-spacing: 0.1em;
  }
 
  h2{ 
@@ -25,10 +26,12 @@
     color: #66BFBF;
     font-weight: normal;
     padding-bottom: 10px;
+    letter-spacing: 0.1em;
  }
  h3{ 
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
+    letter-spacing: 0.1em;
  }
 
 
@@ -38,6 +41,7 @@ hr{
     border-bottom:  none;
     width: 4%;
     margin: 100px auto;
+    
 }
 
 .top-container {
@@ -100,6 +104,7 @@ hr{
 
 p{
     line-height: 2.5;
+    
 }
 
 .contact-message {
