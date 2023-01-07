@@ -28,11 +28,13 @@
     font-weight: normal;
     padding-bottom: 10px;
     letter-spacing: 0.1em;
+    font-weight: bold;
  }
  h3{ 
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
     letter-spacing: 0.1em;
+    font-weight: bold;
  }
 
 
